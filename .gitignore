@@ -1,0 +1,9 @@
+.env
+**/.env
+node_modules/
+**/node_modules/
+terraform/.terraform/
+terraform/.build/
+terraform/*.tfstate*
+terraform/terraform.tfvars
+terraform/crash.log
